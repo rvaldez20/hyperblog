@@ -44,3 +44,10 @@ body {
    background: #fff;
    padding: 1em;
 }
+
+#footer {
+   background: #777;
+   color: #FFF;
+   text-align: center;
+   padding: 0.5rem;
+}
